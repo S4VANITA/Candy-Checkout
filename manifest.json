@@ -1,0 +1,11 @@
+{
+  "name": "Candy Checkout",
+  "short_name": "Candy POS",
+  "description": "A simple candy checkout and sales tracker.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff9ed",
+  "theme_color": "#254d3b",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
